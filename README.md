@@ -4,7 +4,7 @@
 
 # Overview
 
-A drop-in replacement for `std::format!`, which can optionally accept a an
+A drop-in replacement for `std::format!`, which can optionally accept an
 existing `String` buffer.
 
 ```rust
